@@ -1,0 +1,20 @@
+[
+    {
+        "text": "Inicio",
+        "url": "index.html",
+        "color": "#ff0000",
+        "image": "img/inicio.png"
+    },
+    {
+        "text": "Productos",
+        "url": "productos.html",
+        "color": "#00ff00",
+        "image": "img/productos.png"
+    },
+    {
+        "text": "Contacto",
+        "url": "contacto.html",
+        "color": "#0000ff",
+        "image": "img/contacto.png"
+    }
+]
